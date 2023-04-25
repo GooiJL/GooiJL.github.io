@@ -10,7 +10,7 @@ body {
 	background-color: #FCEBB6;
 	color: #221811;
 	font-family: Verdana, Arial, sans-serif;
-	background-image: url('Images/Fast\ Food\ Background.jpg');
+	background-image: url('Fast\ Food\ Background.jpg');
 }
 
 header {
@@ -18,12 +18,12 @@ header {
 	background-color: #B8860B;
 	height: 150px;
 	/*text-align: center;*/
-	background-image: url('Images/Logo.jpg');
+	background-image: url('Logo.jpg');
 	background-repeat: no-repeat;
 }
 
 .banner{
-	background-image:  url('Images/Banner.jpg');
+	background-image:  url('Banner.jpg');
 	background-size: 100% 100%;
 	height:400px;
 	
